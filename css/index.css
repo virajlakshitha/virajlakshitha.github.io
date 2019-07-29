@@ -1,9 +1,49 @@
 .nav{
     background-color: black;
     height: 70px;
+    width: 100%;
 }
 .logo{
     height: 90px;
     width: 80px;
     margin-left: 20px;
+    z-index: 2;
+}
+#name{
+    color: white;
+    margin-left: 50px;
+    margin-top: 20px;
+    width: 600px;
+}
+.navbar_content{
+    color: white;
+    width: 125px;
+    margin-top: 20px;
+}
+.footer{
+    background-color: black;
+    color: white;
+    padding: 25px;
+}
+.footer_content{
+    border-bottom: 1px solid white;
+    width: 90%;
+    font-size: 1.1em;
+    padding-left: 10px;
+    height: 30px;
+}
+#para{
+    margin: 0 25px 0 25px;
+}
+.slider{
+    height: 550px;
+    width: 100%;
+}
+.content2{
+    padding: 20px;
+}
+.social_logo{
+    height: 30px;
+    width: 30px;
+    margin-left: 10px;
 }
